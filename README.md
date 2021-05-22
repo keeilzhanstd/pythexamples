@@ -69,6 +69,8 @@ OLOLO
 Но в какой-то момент приходит клубный-магнат из IT-academy и предлагает вам продать все свои клубы под его франшизу за боснословные деньги.  
 И вы недолго думая соглашаетесь.
 
+![Image](https://github.com/keeilzhanstd/pythexamples/blob/main/3BB51116-3552-4650-A061-DAC356D2C7E8.jpeg)
+
 ###### Code
 ```python
 class Club:
@@ -111,6 +113,9 @@ IT Academy
 # @ regular method
   
 Однако вам так нравился ваш любимый клуб *Малибу*, что вы решаетесь вновь выкупить его.  
+
+![Image](https://github.com/keeilzhanstd/pythexamples/blob/main/A866A557-5D2C-46D5-ADC0-60D87EE31FF1.jpeg)
+
 Однако при использовании ```malibu.setClubsFranchise("OLOLO")```. Окажется что вы вновь владелец всех своих клубов.  
  ###### Output
 > Клубы перед продажей  
@@ -328,6 +333,8 @@ Sorry Rose we can't do anything with that.
 >Visitor count at Malibu: 1  
 Visitor count at Cyberpunk: 3  
 
+
+![Image](https://github.com/keeilzhanstd/pythexamples/blob/main/275BC64D-1AAC-4A20-BB1A-97B317D31128.jpeg)
 ***
 
 Но что если я хочу проверить могу ли я ходить в клубы в целом.  
@@ -460,3 +467,5 @@ Go drink some milk!
 
 Все просто замечательно!  
 Теперь пожалуй я пойду в клуб, не опасаясь, что увижу там кого-то из своих братьев.
+
+![Image](https://github.com/keeilzhanstd/pythexamples/blob/main/8A14CFFE-4DAE-45EE-A569-06305490AE18.jpeg)
